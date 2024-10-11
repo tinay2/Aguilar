@@ -1,0 +1,23 @@
+h1{
+    color: rgb(133, 8, 138);
+    font-size: 50px;
+    font-family: monospace;
+}
+*{
+    text-align: center;
+    background-color: plum;
+}
+.tinay{
+    height: 500px;
+    width: auto;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+button{
+    color: pink;
+    background-color: rgb(90, 26, 47);
+    border-radius: 100px;
+    height: 50px;
+    width: 150px;
+    font-weight: 1000;
+}
